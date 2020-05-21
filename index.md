@@ -59,7 +59,7 @@ Merci de remplir ce   [Formulaire ](https://docs.google.com/forms/d/e/1FAIpQLSdh
 Cette compagne s'aligne avec les actions ciblées par la stratégie nationale de Cybersécurité annoncée officiellement le 9 décembre 2019.
 Nous comptons sur votre participation et sur la diffusion à votre échelle!
 ### Upcoming Meeting
-Register on our first onlive event: https://www.eventbrite.co.uk/e/owasp-tunisia-chapter-first-online-meeting-tickets-106113319796
+Register on [our first onlive event](https://www.eventbrite.co.uk/e/owasp-tunisia-chapter-first-online-meeting-tickets-106113319796)
 
 Cet événement est le premier Workshop en ligne présenté par OWASP Tunisia Chapter et organisé en deux parties
 
@@ -69,9 +69,9 @@ L'organisme international à but non lucratif OWASP(Open Web Application Securit
 
 Suivez nous sur
 
-Facebook: https://www.facebook.com/OWASP.Tunisia.Chapter.Official
+[Facebook](https://www.facebook.com/OWASP.Tunisia.Chapter.Official)
 
-Linkedin: https://www.linkedin.com/groups/8591169/
+[Linkedin](https://www.linkedin.com/groups/8591169/)
 
 #### Deuxième Partie
 
