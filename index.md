@@ -34,6 +34,7 @@ and Thanks again to:
 
  -  [ANSI National Agency of Computer Security]( https://www.ansi.tn/)
  -  [UVT Tunis Virtual University]( https://www.uvt.rnu.tn/)
+ -  [SecuriNets]( https://www.securinets.com/)
 
  for helping us to further develop national software security awarness and extend our OWASP Tunisia community!
 
