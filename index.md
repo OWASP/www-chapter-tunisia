@@ -29,7 +29,7 @@ The following is the list of organisations/Foundations who have generously help 
 
 ### Last Event- Hands-on on Secure Programming & Secure Coding Standards 13-07-20
 
-[Subscribe/Follow us via our Youtube Channel!] (https://www.youtube.com/channel/UC1M1Ppxbbi3HoYBpqYKjlgA)
+[Subscribe/Follow us via our Youtube Channel!](https://www.youtube.com/channel/UC1M1Ppxbbi3HoYBpqYKjlgA)
 
 <!--[Take your Ticket Here!!!](https://www.eventbrite.com/e/hands-on-on-secure-programming-secure-coding-standards-tickets-113083056466)-->
 
