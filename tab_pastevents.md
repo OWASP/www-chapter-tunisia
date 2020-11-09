@@ -7,6 +7,27 @@ tags: pastevents-tag
 ---
 
 ## Past Events
+**2020-07-13** Virtual Event- Hands-on on Secure Programming and Secure Coding Standards
+[View the video on our Youtube Channel](https://www.youtube.com/watch?v=X0AA2lubSSs)
+
+##### Our Ghest: 
+Azzedine RAMRAMI. Senior Security & Network Architect-IBM Security.
+                  OWASP Morocco Chaper Leader
+                  OWASP Appsec Africa President
+
+<img src="assets/images/tt1.jpg" width="450" height="250">
+
+**2020-05-23** Virtual Event- Presentation of OWASP Foundation and OWASP Tunisia Chapter and Hands on Pwing with OWASP Juice Shop
+[View the video on our Youtube Channel](https://www.youtube.com/watch?v=p_I8noAb5dE)
+
+##### Our Ghest: 
+Wajih HAJJI. OWASP member. Cybersecurity and Multi Cloud Management Engineer. Ditriot Consulting
+
+<img src="assets/images/tt1.jpg" width="450" height="250">
+
+
+
+
 **2020-01-16**. Participation at 3rd edition of TT Security Day "Cybersécurité et Confiance numérique , clés de la transformation digitale". Table ronde sur les challenges en sécurité des nouvelles tendances technologiques. Présentation des projets et publications OWASP autour de  "Security and privacy by design"
 
 <img src="assets/images/tt1.jpg" width="350" height="250">|<img src="assets/images/tt2.jpg" width="350" height="250">
