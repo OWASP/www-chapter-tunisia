@@ -39,7 +39,7 @@ Youtube: [Subscribe/Follow us via our Youtube Channel!](https://www.youtube.com/
 Blockchain is a disruptive  technology proposing some security properties for various digital applications. 
 But Blockchain has also its own challenges in terms of security......
 
-  ##### "Blockchain, uses cases and technologies", by Nelly Shatue-Diop
+##### "Blockchain, uses cases and technologies", by Nelly Shatue-Diop
 Nelly is  Tech Entrepreneur, Board member , Data & AI Strategy  and Blockchain expert with more than 15 years of professional experience. Nelly is also President of Tezos  West Africa Foundation since june 2020.
 
 ##### "Blockchain as a security brick for software applications" by Sami Bel Hadj
@@ -58,7 +58,7 @@ Damien is Senior IT Security Specialist, since 2016 in SecuRing. Professionally 
 Finished PhD at Warsaw University of Technology. Damian works as researcher at Maria Curie Sklodowska University in Lublin where his main topic of research are biocrypto and blockchain based protocols and applications. Author of several academic research papers and speaker at such conferences as Cryptography and Security Systems, International Science Conference on Computer Networks, Confidence, Confidence London, AppSec EU, InfoShare.
 Creator of Smart Contracts Security Verification Standard.
 
-### Last Event- Hands-on on Secure Programming & Secure Coding Standards 13-07-20
+### Previous Event- Hands-on on Secure Programming & Secure Coding Standards 13-07-20
 
 [Subscribe/Follow us via our Youtube Channel!](https://www.youtube.com/channel/UC1M1Ppxbbi3HoYBpqYKjlgA)
 
