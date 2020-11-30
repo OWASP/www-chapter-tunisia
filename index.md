@@ -39,8 +39,6 @@ Youtube: [Subscribe/Follow us via our Youtube Channel!](https://www.youtube.com/
 Blockchain is a disruptive  technology proposing some security properties for various digital applications. 
 But Blockchain has also its own challenges in terms of security......
 
-##### "Blockchain, uses cases and technologies", by Nelly Shatue-Diop
-Nelly is  Tech Entrepreneur, Board member , Data & AI Strategy  and Blockchain expert with more than 15 years of professional experience. Nelly is also President of Tezos  West Africa Foundation since june 2020.
 
 ##### "Blockchain as a security brick for software applications" by Sami Bel Hadj
 
