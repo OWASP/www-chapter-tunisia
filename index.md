@@ -27,7 +27,7 @@ The following is the list of organisations/Foundations who have generously help 
 
 <!--![axians](https://www.keejob.com/media/recruiter/recruiter_16995/logo-16995-20190221-123822.jpg)-->
 
-### NEXT ONLINE  EVENT! Blockchain [for] Security - 5-12-20
+### LAST ONLINE  EVENT! Blockchain [for] Security - 5-12-20
 
 
 Meetup : [Register and join the event !](https://www.meetup.com/fr-FR/OWASP-Tunis-Meetup-Group/events/274884238/)
