@@ -7,7 +7,18 @@ tags: pastevents-tag
 ---
 
 ## Past Events
-**2020-07-13** Virtual Event- Hands-on on Secure Programming and Secure Coding Standards
+
+**2020-12-5** Online Event- Blockchain [for] Security
+[View the video on our Youtube Channel](https://www.youtube.com/watch?v=fRQrJttI5vI)
+
+##### Our Ghests: 
+- Sami BelHadj. Senior Technical/Software Dev Manager at ODOO BHF and Blockchain professor
+- Damien Rusinek. Senior IT Security Specialist at Securing and PhD in biocrypto and blockchain based protocols and applications.
+- Alex Devassy. Security Analyst at EY and have been part of winning team at IIT Delhi, Open Innovation Blockchain Hackathon.
+
+<img src="assets/images/dana2.jpg" width="450" height="250">
+
+**2020-07-13** Online Event- Hands-on on Secure Programming and Secure Coding Standards
 [View the video on our Youtube Channel](https://www.youtube.com/watch?v=X0AA2lubSSs)
 
 ##### Our Ghest: 
