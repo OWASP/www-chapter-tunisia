@@ -59,7 +59,7 @@ Finished PhD at Warsaw University of Technology. Damian works as researcher at M
 Creator of Smart Contracts Security Verification Standard.
 [PDF](assets/images/OWASP-Tunis-Chapter-2020.pdf)
 
- ### Previous Event- Hands-on on Secure Programming & Secure Coding Standards 13-07-20
+### Previous Event- Hands-on on Secure Programming & Secure Coding Standards 13-07-20
 
 [Subscribe/Follow us via our Youtube Channel!](https://www.youtube.com/channel/UC1M1Ppxbbi3HoYBpqYKjlgA)
 
