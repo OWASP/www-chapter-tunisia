@@ -44,6 +44,7 @@ But Blockchain has also its own challenges in terms of security......
 
 Sami is Technical/Software Dev Manager with more than 18 years’ experience designing, developing and supporting software systems. Creative and dynamic Engineer with proven expertise in effectively leading technical teams.
 His professional strengths include extensive database technology expertise, team leadership and management, strong oral and written communication skills, and ability to achieve corporate objectives in challenging work environments. Sami is also  professor of Blockchain technology / philosophy in several Tunisian universities
+[PDF](assets/images/Blockchain_Security_OWASP.pdf)
 
 ##### "Pen testing Blockchain Solutions (Ethereum Smart Contracts & Nodes)" By Alex Devassy 
 
