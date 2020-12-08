@@ -41,21 +41,22 @@ But Blockchain has also its own challenges in terms of security......
 
 
 ##### "Blockchain as a security brick for software applications" by Sami Bel Hadj
-
+[PDF](assets/images/Blockchain_Security_OWASP.pdf)
 Sami is Technical/Software Dev Manager with more than 18 years’ experience designing, developing and supporting software systems. Creative and dynamic Engineer with proven expertise in effectively leading technical teams.
 His professional strengths include extensive database technology expertise, team leadership and management, strong oral and written communication skills, and ability to achieve corporate objectives in challenging work environments. Sami is also  professor of Blockchain technology / philosophy in several Tunisian universities
-[PDF](assets/images/Blockchain_Security_OWASP.pdf)
+
 
 ##### "Pen testing Blockchain Solutions (Ethereum Smart Contracts & Nodes)" By Alex Devassy 
 
 Alex is Cyber Security Professional, having 2+ years of rich and insightful exposure in Red Teaming, security consultancy along with cyber security training. Focused on Penetration testing of commercial off-the-shelf applications, Web Application, Web Service, Network PT including Active Directory, SAP, IOS,  Blockchain and Salesforce applications using open source and commercial tools. Experienced in developing automation / malicious scripts in windows PowerShell, node js. Have been a part of the winning team at IIT Delhi, Open Innovation Blockchain Hackathon, conducted by Best of Block Inc.
 
 ##### "Secured Smart Contracts Development using SCSVS" by Damian Rusinek
-
+[PDF](assets/images/OWASP-Tunis-Chapter-2020.pdf)
 Damian is Senior IT Security Specialist, since 2016 in SecuRing. Professionally responsible for web and mobile application audits and source code analysis. Software developer and analyst with over a decade of experience. Mainly focused on the cryptographic protocols, distributed ledger technologies and applications that use them.
 
 Finished PhD at Warsaw University of Technology. Damian works as researcher at Maria Curie Sklodowska University in Lublin where his main topic of research are biocrypto and blockchain based protocols and applications. Author of several academic research papers and speaker at such conferences as Cryptography and Security Systems, International Science Conference on Computer Networks, Confidence, Confidence London, AppSec EU, InfoShare.
 Creator of Smart Contracts Security Verification Standard.
+
 
 ### Previous Event- Hands-on on Secure Programming & Secure Coding Standards 13-07-20
 
