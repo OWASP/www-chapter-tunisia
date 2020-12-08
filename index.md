@@ -30,9 +30,9 @@ The following is the list of organisations/Foundations who have generously help 
 ### LAST ONLINE  EVENT! Blockchain [for] Security - 5-12-20
 
 
-Meetup : [Register and join the event !](https://www.meetup.com/fr-FR/OWASP-Tunis-Meetup-Group/events/274884238/)
+<!-- Meetup : [Register and join the event !](https://www.meetup.com/fr-FR/OWASP-Tunis-Meetup-Group/events/274884238/)-->
 
-Youtube: [Subscribe/Follow us via our Youtube Channel!](https://www.youtube.com/channel/UC1M1Ppxbbi3HoYBpqYKjlgA)
+<!-- Youtube: [Subscribe/Follow us via our Youtube Channel!](https://www.youtube.com/channel/UC1M1Ppxbbi3HoYBpqYKjlgA)-->
 
 #### Abstract 
 
