@@ -27,6 +27,20 @@ The following is the list of organisations/Foundations who have generously help 
 
 <!--![axians](https://www.keejob.com/media/recruiter/recruiter_16995/logo-16995-20190221-123822.jpg)-->
 
+### NEXT ONLINE  EVENT! OWASP SAMM2 - Your Dynamic Software Security Journey - 29 January 2021 at 12pm CET
+
+[Take your ticket and subscribe to our Meetup OWASP Tunis Group!](https://www.meetup.com/fr-FR/OWASP-Tunis-Meetup-Group/events/275749110)
+
+#### Our Guest: Sebastien Deleersnyder 
+
+Sebastien Deleersnyder (https://twitter.com/sebadele) is co-founder, CEO of Toreon and a proponent of application security as a holistic endeavor. He started the Belgian OWASP chapter, was a member of the OWASP Foundation Board and performed several public presentations on Application Security. Seba also co-founded the yearly security & hacker BruCON conference and trainings in Belgium. With a background in development and many years of experience in security, he has trained countless developers to create software more securely. He has led OWASP projects such as OWASP SAMM, thereby truly making the world a little bit safer. Now he is adapting application security models to the evolving field of DevOps and is also focused on bringing Threat Modeling to a wider audience.
+
+#### Description
+
+OWASP Software Assurance Maturity Model (SAMM) enables you to formulate and implement a strategy for software security that is tailored to the risk profile of your organisation. In this talk, we give an overview of the new release of the SAMM model. After 10 years since its first conception, it was important to align it with today’s development practices. We will cover a number of topics in the talk:
+the core structure of the model, which was redesigned and extended to align with modern development practices, the measurement model which was setup to cover both coverage and quality and the new security practice streams where the SAMM activities are grouped in maturity levels. We will demonstrate the new SAMM2 toolbox to measure the maturity of an example development team and how you can create a roadmap of activities.
+
+
 ### LAST ONLINE  EVENT! Blockchain [for] Security - 5-12-20
 
 
