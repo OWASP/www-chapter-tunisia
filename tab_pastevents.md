@@ -15,7 +15,7 @@ tags: pastevents-tag
 ##### Our Ghest: 
 - Sebastien Deleersnyder is co-founder, CEO of Toreon, OWASP Belgium Chapter co-Leader, OWASP SAMM project co-leader
 
-<img src="assets/images/sebayoutube.PNG" width="450" height="250">
+<img src="assets/images/sebayoutube.PNG" width="450" height="250">|<img src="assets/images/sam.PNG" width="450" height="250">
 
 **2020-12-5** Online Event- Blockchain [for] Security
 [View the video on our Youtube Channel](https://www.youtube.com/watch?v=fRQrJttI5vI)
