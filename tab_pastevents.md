@@ -8,6 +8,15 @@ tags: pastevents-tag
 
 ## Past Events
 
+
+**2021-1-29** OWASP SAMM2 - Your Dynamic Software Security Journey
+[View the video on our Youtube Channel](https://www.youtube.com/watch?v=IaVeLHia43w)
+
+##### Our Ghest: 
+- Sebastien Deleersnyder is co-founder, CEO of Toreon, OWASP Belgium Chapter co-Leader, OWASP SAMM project co-leader
+
+<img src="assets/images/dana2.jpg" width="450" height="250">
+
 **2020-12-5** Online Event- Blockchain [for] Security
 [View the video on our Youtube Channel](https://www.youtube.com/watch?v=fRQrJttI5vI)
 
