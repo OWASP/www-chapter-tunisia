@@ -27,7 +27,7 @@ The following is the list of organisations/Foundations who have generously help 
 
 <!--![axians](https://www.keejob.com/media/recruiter/recruiter_16995/logo-16995-20190221-123822.jpg)-->
 
-### NEXT ONLINE  EVENT! OWASP SAMM2 - Your Dynamic Software Security Journey - 29 January 2021 at 12pm CET
+### LAST PAST EVENT! OWASP SAMM2 - Your Dynamic Software Security Journey - 29 January 2021 at 12pm CET
 
 [Take your ticket and subscribe to our Meetup OWASP Tunis Group!](https://www.meetup.com/fr-FR/OWASP-Tunis-Meetup-Group/events/275749110)
 
