@@ -35,7 +35,7 @@ Azzedine RAMRAMI. Senior Security & Network Architect-IBM Security.
                   OWASP Morocco Chaper Leader
                   OWASP Appsec Africa President
 
-<img src="assets/images/code.PNG" width="450" height="250">
+<img src="assets/images/code.PNG" width="450" height="250">|<img src="assets/images/azz.PNG" width="450" height="250">
 
 **2020-05-23** Virtual Event- Presentation of OWASP Foundation and OWASP Tunisia Chapter and Hands on Pwing with OWASP Juice Shop
 [View the video on our Youtube Channel](https://www.youtube.com/watch?v=p_I8noAb5dE)
