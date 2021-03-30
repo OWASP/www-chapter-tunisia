@@ -29,6 +29,12 @@ The following is the list of organisations/Foundations who have generously help 
 
 <!--![axians](https://www.keejob.com/media/recruiter/recruiter_16995/logo-16995-20190221-123822.jpg)-->
 
+
+### Coming Soon April/May 2021 - Common Project about Software Security Awarness with National Agency of Computer Security !
+
+### INVITATION to Securiday 22 May 2021 at INSAT - National Computer Security Day
+
+
 ### LAST PAST EVENT! OWASP SAMM2 - Your Dynamic Software Security Journey - 29 January 2021 at 12pm CET
 
 [Take your ticket and subscribe to our Meetup OWASP Tunis Group!](https://www.meetup.com/fr-FR/OWASP-Tunis-Meetup-Group/events/275749110)
