@@ -9,10 +9,10 @@ region: Africa
 
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
-The chapter Leader is  [Nihel Ben Youssef](nihel.benyoussef@owasp.org). Follow chapter news on  [Facebook](https://www.facebook.com/OWASP.Tunisia.Chapter.Official) ,   [Linkedin](https://www.linkedin.com/groups/8591169/), [Youtube](https://www.youtube.com/channel/UC1M1Ppxbbi3HoYBpqYKjlgA) and [Meetup](https://www.meetup.com/fr-FR/OWASP-Tunis-Meetup-Group/)
+Follow chapter news on  [Facebook](https://www.facebook.com/OWASP.Tunisia.Chapter.Official) ,   [Linkedin](https://www.linkedin.com/groups/8591169/), [Youtube](https://www.youtube.com/channel/UC1M1Ppxbbi3HoYBpqYKjlgA) and [Meetup](https://www.meetup.com/fr-FR/OWASP-Tunis-Meetup-Group/)
 
 
-
+### Next event April/May 2021 - Common Project about Software Security Awarness with National Agency of Computer Security !
 
 ### Meeting Sponsors
 The following is the list of organisations who have generously provided us with space for OWASP Tunisia chapter meetings.
@@ -30,7 +30,7 @@ The following is the list of organisations/Foundations who have generously help 
 <!--![axians](https://www.keejob.com/media/recruiter/recruiter_16995/logo-16995-20190221-123822.jpg)-->
 
 
-### Coming Soon April/May 2021 - Common Project about Software Security Awarness with National Agency of Computer Security !
+
 
 ### INVITATION to Securiday 22 May 2021 at INSAT - National Computer Security Day
 
