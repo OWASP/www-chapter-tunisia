@@ -39,6 +39,8 @@ The following is the list of organisations/Foundations who have generously help 
 Raouf Mnif Spent 10 years developing the skills to increase velocity, reliability, and quality with a high focus on security.
 Good experience with AWS, Docker, Kubernetes, and ArgoCD, helping organizations instill Devops for the modern ag
 
+[Take your ticket Now and subscribe to our Meetup OWASP Tunis Group!](https://www.meetup.com/fr-FR/OWASP-Tunis-Meetup-Group/events/277851439)
+
 
 ### LAST PAST EVENT! OWASP SAMM2 - Your Dynamic Software Security Journey - 29 January 2021 at 12pm CET
 
