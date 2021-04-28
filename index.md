@@ -11,6 +11,14 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 
 Follow chapter news on  [Facebook](https://www.facebook.com/OWASP.Tunisia.Chapter.Official) ,   [Linkedin](https://www.linkedin.com/groups/8591169/), [Youtube](https://www.youtube.com/channel/UC1M1Ppxbbi3HoYBpqYKjlgA) and [Meetup](https://www.meetup.com/fr-FR/OWASP-Tunis-Meetup-Group/)
 
+### NEXT Online EVENT ! Hands-On - Static Analysis Security Testing (SAST) in CI/CD - 20 May 2021 at 8 PM UTC+1
+
+#### OUR GUEST: Raouf Mnif -Devops Architect at Baaz
+
+Raouf Mnif Spent 10 years developing the skills to increase velocity, reliability, and quality with a high focus on security.
+Good experience with AWS, Docker, Kubernetes, and ArgoCD, helping organizations instill Devops for the modern ag
+
+[Take your ticket Now and subscribe to our Meetup OWASP Tunis Group!](https://www.meetup.com/fr-FR/OWASP-Tunis-Meetup-Group/events/277851439)
 
 ### Next event April/May 2021 - Common Project about Software Security Awarness with National Agency of Computer Security !
 
@@ -32,14 +40,6 @@ The following is the list of organisations/Foundations who have generously help 
 
 
 
-### NEXT EVENT ! Hands-On on Static Analysis Security Testing (SAST) in CI/CD - 20 May 2021 at 8 PM UTC+1
-
-#### OUR GUEST: Raouf Mnif -Devops Architect at Baaz
-
-Raouf Mnif Spent 10 years developing the skills to increase velocity, reliability, and quality with a high focus on security.
-Good experience with AWS, Docker, Kubernetes, and ArgoCD, helping organizations instill Devops for the modern ag
-
-[Take your ticket Now and subscribe to our Meetup OWASP Tunis Group!](https://www.meetup.com/fr-FR/OWASP-Tunis-Meetup-Group/events/277851439)
 
 
 ### LAST PAST EVENT! OWASP SAMM2 - Your Dynamic Software Security Journey - 29 January 2021 at 12pm CET
