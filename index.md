@@ -11,6 +11,17 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 
 Follow chapter news on  [Facebook](https://www.facebook.com/OWASP.Tunisia.Chapter.Official) ,   [Linkedin](https://www.linkedin.com/groups/8591169/), [Youtube](https://www.youtube.com/channel/UC1M1Ppxbbi3HoYBpqYKjlgA) and [Meetup](https://www.meetup.com/fr-FR/OWASP-Tunis-Meetup-Group/)
 
+### Common Community Project - OTIP (OWASP Tunisia Infographic Project) with ANSI (National Agency of Computer Security)
+#### CALL FOR PARTICIPATION! Deadline 8 May 2021!
+
+OWASP Tunisia Chapter and ANSI co-organize a community project - Creating educative videos on secure coding and software security awareness based on OWASP references! 
+
+Dear local community, You can find here details about the first call for participation P1 [OTIP](assets/images/OTIP.pdf)
+
+The deadline to [register](https://forms.gle/ct7dJaUmFzZ5HkyU7) is 8 MAY 2021! 
+
+
+
 ### NEXT Online EVENT ! Hands-On - Static Analysis Security Testing (SAST) in CI/CD - 20 May 2021 at 8 PM UTC+1
 
 #### OUR GUEST: Raouf Mnif -Devops Architect at Baaz
