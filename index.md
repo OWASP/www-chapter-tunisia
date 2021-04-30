@@ -20,6 +20,7 @@ Dear local community, You can find here details about the first call for partici
 
 The deadline to [register](https://forms.gle/ct7dJaUmFzZ5HkyU7) is 8 MAY 2021! 
 
+Le deadline de réception de vos propositions est le 29 May 2021!
 
 
 ### NEXT Online EVENT ! Hands-On - Static Analysis Security Testing (SAST) in CI/CD - 20 May 2021 at 8 PM UTC+1
