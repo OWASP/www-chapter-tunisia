@@ -24,14 +24,13 @@ Good experience with AWS, Docker, Kubernetes, and ArgoCD, helping organizations 
 
 ### Next event April/May 2021 - Common Project about Software Security Awarness with National Agency of Computer Security !
 
-### Meeting Sponsors
+### Meeting Supporters
 The following is the list of organisations who have generously provided us with space for OWASP Tunisia chapter meetings.
 Thank you for your contribution.
 
 
 <img src="https://www.keejob.com/media/recruiter/recruiter_16995/logo-16995-20190221-123822.jpg" width="150" height="100">
 
-### Partners
 The following is the list of organisations/Foundations who have generously help us to communicate about OWASP projects and OWASP Tunisia chapter activities. Thank you for your contribution.
 
 
