@@ -29,7 +29,7 @@ The following is the list of organisations who have generously provided us with 
 Thank you for your contribution.
 
 
-<img src="https://www.keejob.com/media/recruiter/recruiter_16995/logo-16995-20190221-123822.jpg" width="150" height="100">
+<!--<img src="https://www.keejob.com/media/recruiter/recruiter_16995/logo-16995-20190221-123822.jpg" width="150" height="100">-->
 
 The following is the list of organisations/Foundations who have generously help us to communicate about OWASP projects and OWASP Tunisia chapter activities. Thank you for your contribution.
 
