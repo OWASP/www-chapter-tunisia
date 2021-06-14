@@ -4,6 +4,7 @@ title: OWASP Tunisia
 tags: pastevents-tag
 level: 0
 region: Africa
+meetup-group: OWASP-Tunis-Meetup-Group
 
 ---
 
@@ -11,20 +12,16 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 
 Follow chapter news on  [Facebook](https://www.facebook.com/OWASP.Tunisia.Chapter.Official) ,   [Linkedin](https://www.linkedin.com/groups/8591169/), [Youtube](https://www.youtube.com/channel/UC1M1Ppxbbi3HoYBpqYKjlgA) and [Meetup](https://www.meetup.com/fr-FR/OWASP-Tunis-Meetup-Group/)
 
+### NEXT Online EVENT!
 
+We schedule our meetings on the [TBA Meetup Group](https://www.meetup.com/TBA/)
 
-### NEXT Online EVENT ! Hands-On - Static Analysis Security Testing (SAST) in CI/CD - 20 May 2021 at 8 PM UTC+1
+{% include chapter_events.html group=page.meetup-group %}
 
-#### OUR GUEST: Raouf Mnif -Devops Architect at Baaz
-
-Raouf Mnif Spent 10 years developing the skills to increase velocity, reliability, and quality with a high focus on security.
-Good experience with AWS, Docker, Kubernetes, and ArgoCD, helping organizations instill Devops for the modern ag
-
-[Take your ticket Now and subscribe to our Meetup OWASP Tunis Group!](https://www.meetup.com/fr-FR/OWASP-Tunis-Meetup-Group/events/277851439)
-
-### Next event April/May 2021 - Common Project about Software Security Awarness with National Agency of Computer Security !
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 ### Meeting Supporters
+
 The following is the list of organisations who have generously provided us with space for OWASP Tunisia chapter meetings.
 Thank you for your contribution.
 
@@ -38,12 +35,20 @@ The following is the list of organisations/Foundations who have generously help 
 
 <!--![axians](https://www.keejob.com/media/recruiter/recruiter_16995/logo-16995-20190221-123822.jpg)-->
 
+## PAST EVENTS! 
 
+### Hands-On - Static Analysis Security Testing (SAST) in CI/CD - 20 May 2021 at 8 PM UTC+1
 
+#### OUR GUEST: Raouf Mnif -Devops Architect at Baaz
 
+Raouf Mnif Spent 10 years developing the skills to increase velocity, reliability, and quality with a high focus on security.
+Good experience with AWS, Docker, Kubernetes, and ArgoCD, helping organizations instill Devops for the modern ag
 
+[Take your ticket Now and subscribe to our Meetup OWASP Tunis Group!](https://www.meetup.com/fr-FR/OWASP-Tunis-Meetup-Group/events/277851439)
 
-### LAST PAST EVENT! OWASP SAMM2 - Your Dynamic Software Security Journey - 29 January 2021 at 12pm CET
+### April/May 2021 - Common Project about Software Security Awarness with National Agency of Computer Security !
+
+### OWASP SAMM2 - Your Dynamic Software Security Journey - 29 January 2021 at 12pm CET
 
 [Take your ticket and subscribe to our Meetup OWASP Tunis Group!](https://www.meetup.com/fr-FR/OWASP-Tunis-Meetup-Group/events/275749110)
 
@@ -56,9 +61,7 @@ Sebastien Deleersnyder (https://twitter.com/sebadele) is co-founder, CEO of Tore
 OWASP Software Assurance Maturity Model (SAMM) enables you to formulate and implement a strategy for software security that is tailored to the risk profile of your organisation. In this talk, we give an overview of the new release of the SAMM model. After 10 years since its first conception, it was important to align it with today’s development practices. We will cover a number of topics in the talk:
 the core structure of the model, which was redesigned and extended to align with modern development practices, the measurement model which was setup to cover both coverage and quality and the new security practice streams where the SAMM activities are grouped in maturity levels. We will demonstrate the new SAMM2 toolbox to measure the maturity of an example development team and how you can create a roadmap of activities.
 
-
 ### LAST ONLINE  EVENT! Blockchain [for] Security - 5-12-20
-
 
 <!-- Meetup : [Register and join the event !](https://www.meetup.com/fr-FR/OWASP-Tunis-Meetup-Group/events/274884238/)-->
 
