@@ -7,7 +7,12 @@ tags: pastevents-tag
 ---
 
 ## Past Events
+**2021-5-20** Hands-On - Static Analysis Security Testing (SAST) in CI/CD - 20 May 2021 at 8 PM UTC+1
+[View the video on our Youtube Channel](https://www.youtube.com/watch?v=NGTl6jURn3Q)
+#### OUR GUEST: 
+Raouf Mnif -Devops Architect at Baaz
 
+<img src="assets/images/raouf.PNG" width="550" height="300">
 
 **2021-1-29** OWASP SAMM2 - Your Dynamic Software Security Journey
 [View the video on our Youtube Channel](https://www.youtube.com/watch?v=IaVeLHia43w)
