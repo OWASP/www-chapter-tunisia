@@ -14,6 +14,8 @@ Follow chapter news on  [Facebook](https://www.facebook.com/OWASP.Tunisia.Chapte
 
 ### NEXT Online EVENT!
 
+#### Next Online Local Meeting scheduled for 5 July 2021 , details announced soon!
+
 
 We schedule our meetings on the [Meetup](https://www.meetup.com/OWASP-Tunis-Meetup-Group/)
 
