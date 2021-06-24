@@ -14,7 +14,8 @@ Follow chapter news on  [Facebook](https://www.facebook.com/OWASP.Tunisia.Chapte
 
 ### NEXT Online EVENT!
 
-We schedule our meetings on the [TBA Meetup Group](https://www.meetup.com/TBA/)
+
+We schedule our meetings on the [Meetup](https://www.meetup.com/OWASP-Tunis-Meetup-Group/)
 
 {% include chapter_events.html group=page.meetup-group %}
 
