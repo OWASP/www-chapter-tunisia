@@ -20,7 +20,7 @@ Follow chapter news on  [Facebook](https://www.facebook.com/OWASP.Tunisia.Chapte
 
 We schedule our meetings on the [Meetup](https://www.meetup.com/OWASP-Tunis-Meetup-Group/)
 
-{% include chapter_events.html group=page.meetup-group %}
+<!--{% include chapter_events.html group=page.meetup-group %}-->
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
