@@ -16,7 +16,7 @@ Follow chapter news on  [Facebook](https://www.facebook.com/OWASP.Tunisia.Chapte
 
 [Register Now!](https://www.eventbrite.com/e/owasps-20th-anniversary-event-celebration-tickets-152915084133)
 
-### Next Local Meeting: 23th October 2021... details coming SOON, Stay Tuned!
+
 
 We schedule our meetings on the [Meetup](https://www.meetup.com/OWASP-Tunis-Meetup-Group/)
 
