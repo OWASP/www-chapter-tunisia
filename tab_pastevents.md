@@ -7,6 +7,19 @@ tags: pastevents-tag
 ---
 
 ## Past Events
+
+**2021-10-20** OWASP Tunisia Chapter Local Meeting at NACS (National Agency of Computer Security)!
+[View the video on our Youtube Channel](https://www.youtube.com/watch?v=Ja4Jot0trVM)
+#### OUR Speakers!
+
+#### Abdelkader Ben Ali- cyber threat intelligence analyst @ODDO-BHF CSIRT. "Mapping OWASP TOP 10 2021 TO ATT&CK"
+#### Ahmed Belkahla - Cyber Security Specialist at Yogosha, technical director at Securinets National Association.  "Workshop on APIs Business Logic Flaws"
+#### Alyssa Berriche -Lead Cyber Threat Analyst @ Cimpress, Instructor @ Cybrary. "Boosting Security Operations and Response using Orchestration and Automation"
+
+
+<img src="assets/images/abdd.jpg" width="450" height="250">|<img src="assets/images/ahm.jpg" width="450" height="250">
+<img src="assets/images/alyssa.jpg" width="450" height="250">|<img src="assets/images/nihel.jpg" width="450" height="250">
+
 **2021-5-20** Hands-On - Static Analysis Security Testing (SAST) in CI/CD - 20 May 2021 at 8 PM UTC+1
 [View the video on our Youtube Channel](https://www.youtube.com/watch?v=NGTl6jURn3Q)
 #### OUR GUEST: 
