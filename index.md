@@ -41,6 +41,9 @@ The following is the list of organisations/Foundations who have generously help 
 
 ## PAST EVENTS! 
 
+### OWASP Tunisia Chapter Local Meeting at NACS (National Agency of Computer Security)20 October 2021!
+[View the video on our Youtube Channel](https://www.youtube.com/watch?v=Ja4Jot0trVM)
+
 ### Hands-On - Static Analysis Security Testing (SAST) in CI/CD - 20 May 2021 at 8 PM UTC+1
 
 #### OUR GUEST: Raouf Mnif -Devops Architect at Baaz
