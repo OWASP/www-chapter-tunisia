@@ -7,6 +7,15 @@ tags: pastevents-tag
 ---
 
 ## Past Events
+**2022-2-19** All about OWASP and OWASP top 10 2021
+[View the video on our Youtube Channel](https://www.youtube.com/watch?v=jalQ-eL-jWY&t=7s)
+#### OUR Speaker!
+
+#### Vandana Verma - OWASP Board of Directors Chair, OWASP Bangalore chapter leader,Security Leader at Snyk
+<img src="assets/images/abdd.jpg" width="450" height="250">|<img src="assets/images/ahm.jpg" width="450" height="250">
+<img src="assets/images/alyssa.jpg" width="450" height="250">|<img src="assets/images/nihel.jpg" width="450" height="250">
+
+
 
 **2021-10-20** OWASP Tunisia Chapter Local Meeting at NACS (National Agency of Computer Security)!
 [View the video on our Youtube Channel](https://www.youtube.com/watch?v=Ja4Jot0trVM)
