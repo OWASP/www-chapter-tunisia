@@ -12,8 +12,8 @@ tags: pastevents-tag
 #### OUR Speaker!
 
 #### Vandana Verma - OWASP Board of Directors Chair, OWASP Bangalore chapter leader,Security Leader at Snyk
-<img src="assets/images/abdd.jpg" width="450" height="250">|<img src="assets/images/ahm.jpg" width="450" height="250">
-<img src="assets/images/alyssa.jpg" width="450" height="250">|<img src="assets/images/nihel.jpg" width="450" height="250">
+<img src="assets/images/v1.jpg" width="450" height="250">|<img src="assets/images/v2.jpg" width="450" height="250">
+<img src="assets/images/v3.jpg" width="450" height="250">|<img src="assets/images/v4.jpg" width="450" height="250">
 
 
 
