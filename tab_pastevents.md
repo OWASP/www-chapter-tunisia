@@ -7,13 +7,30 @@ tags: pastevents-tag
 ---
 
 ## Past Events
+
+**2022-3-2** OWASP Tunisia Local Meeting at National Agency of Computer Security
+[View the video on our Youtube Channel](https://www.youtube.com/watch?v=BoICPgU6oLc&t=7927s)
+
+#### OUR Speakers!
+
+#### Mondher Smii , Chef de service information Sharing & Analysis Center at ANSI(National Agnecy of computer Security)
+#### Hajji Wajih , OWASP member, Lead cyber security engineer at Ernst and Young (EY)
+#### Sofien Maatallah, Cyber-security Expert at National Agency of Computer Security, Head of computer security incident response team at (National Agnecy of computer Security)
+#### Baha Baghdadi, Cyber security consultant and penetration tester at EY Tunisia, 
+
+<img src="assets/images/meet1.jpg" width="150" height="100">|<img src="assets/images/meet8.jpg" width="150" height="100">
+<img src="assets/images/meet5.jpg" width="150" height="100">|<img src="assets/images/meet7.jpg" width="150" height="100">
+<img src="assets/images/meet6.jpg" width="150" height="100">|<img src="assets/images/meet9.jpg" width="150" height="100">
+
+
+
 **2022-2-19** All about OWASP and OWASP top 10 2021
 [View the video on our Youtube Channel](https://www.youtube.com/watch?v=jalQ-eL-jWY&t=7s)
 #### OUR Speaker!
 
 #### Vandana Verma - OWASP Board of Directors Chair, OWASP Bangalore chapter leader,Security Leader at Snyk
-<img src="assets/images/v1.jpg" width="350" height="100">|<img src="assets/images/v2.jpg" width="350" height="100">
-<img src="assets/images/v3.jpg" width="350" height="100">|<img src="assets/images/v4.jpg" width="350" height="100">
+<img src="assets/images/v1.jpg" width="350" height="200">|<img src="assets/images/v2.jpg" width="350" height="200">
+<img src="assets/images/v3.jpg" width="350" height="200">|<img src="assets/images/v4.jpg" width="350" height="200">
 
 
 
