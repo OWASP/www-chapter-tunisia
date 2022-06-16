@@ -12,8 +12,6 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 
 Follow chapter news on  [Facebook](https://www.facebook.com/OWASP.Tunisia.Chapter.Official) ,   [Linkedin](https://www.linkedin.com/groups/8591169/), [Youtube](https://www.youtube.com/channel/UC1M1Ppxbbi3HoYBpqYKjlgA) and [Meetup](https://www.meetup.com/fr-FR/OWASP-Tunis-Meetup-Group/)
 
-### NEXT online EVENT: ALL about OWASP and OWASP TOP10 - Guest Speaker: Vandana Verma. 19th February 2022 at 10h30 am (UTC+1)
-
 
 We schedule our meetings on the [Meetup](https://www.meetup.com/OWASP-Tunis-Meetup-Group/)
 
