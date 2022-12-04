@@ -12,7 +12,11 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 
 Follow chapter news on  [Facebook](https://www.facebook.com/OWASP.Tunisia.Chapter.Official) ,   [Linkedin](https://www.linkedin.com/groups/8591169/), [Youtube](https://www.youtube.com/channel/UC1M1Ppxbbi3HoYBpqYKjlgA) and [Meetup](https://www.meetup.com/fr-FR/OWASP-Tunis-Meetup-Group/)
 We schedule our meetings on the [Meetup](https://www.meetup.com/OWASP-Tunis-Meetup-Group/)
-### NEXT EVENT ! 24 juine 2022 at 2pm (UTC+1)
+
+### NEXT EVENT- 17 DECEMBER 2022.. Stay Tuned
+
+
+### LAST EVENT !
 #### Securing Mobile Apps with the OWASP MASVS Standard. Our Journey to v2.0. [NEW NEW!!] 
 ##### With our Honorable Guest ! Carlos Holguera Mobile security research engineer. NowSecure . Project Leader @OWASP Mobile Security Project
 Join us via https://www.meetup.com/fr-FR/owasp-tunis-meetup-group/events/286694349/
