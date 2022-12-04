@@ -14,7 +14,7 @@ tags: pastevents-tag
 #### OUR Speaker !
 #### Carlos Holguera. Mobile security research engineer working. NowSecure  Project Leader, OWASP Mobile Security Project
 
-<img src="assets/images/abdd.jpg" width="450" height="250">|<img src="assets/images/ahm.jpg" width="450" height="250">
+<img src="assets/images/carlos.jpg" width="450" height="250">|<img src="assets/images/carlos2.jpg" width="450" height="250">
 
 
 **2022-3-2** OWASP Tunisia Local Meeting at National Agency of Computer Security
