@@ -7,6 +7,15 @@ tags: pastevents-tag
 ---
 
 ## Past Events
+**2022-06-24** Workshop- Securing Mobile Apps with the OWASP MASVS Standard. Our Journey to v2.0
+
+[View the video on our Youtube Channel](https://www.youtube.com/watch?v=mQbYm1UKNXE)
+
+#### OUR Speaker !
+#### Carlos Holguera. Mobile security research engineer working. NowSecure  Project Leader, OWASP Mobile Security Project
+
+<img src="assets/images/abdd.jpg" width="450" height="250">|<img src="assets/images/ahm.jpg" width="450" height="250">
+
 
 **2022-3-2** OWASP Tunisia Local Meeting at National Agency of Computer Security
 [View the video on our Youtube Channel](https://www.youtube.com/watch?v=BoICPgU6oLc&t=7927s)
