@@ -7,6 +7,17 @@ tags: pastevents-tag
 ---
 
 ## Past Events
+**2022-12-17** Workshop- Mobile app Pentest and Security
+
+#### OUR Speaker !
+#### Ahmed Abdallah, Senior Solutions Architect and Cyber Security Consultant. OWASP Dubai Chapter Leader
+
+[View the video on our Youtube Channel](https://www.youtube.com/watch?v=W8wFjjvsPZo&t=154s)
+
+<img src="assets/images/mobile1.png" width="450" height="250">|<img src="assets/images/mobile2.png" width="450" height="250">
+
+
+
 **2022-06-24** Workshop- Securing Mobile Apps with the OWASP MASVS Standard. Our Journey to v2.0
 
 [View the video on our Youtube Channel](https://www.youtube.com/watch?v=mQbYm1UKNXE)
