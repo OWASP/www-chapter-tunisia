@@ -13,21 +13,17 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 Follow chapter news on  [Facebook](https://www.facebook.com/OWASP.Tunisia.Chapter.Official) ,   [Linkedin](https://www.linkedin.com/groups/8591169/), [Youtube](https://www.youtube.com/channel/UC1M1Ppxbbi3HoYBpqYKjlgA) and [Meetup](https://www.meetup.com/fr-FR/OWASP-Tunis-Meetup-Group/)
 We schedule our meetings on the [Meetup](https://www.meetup.com/OWASP-Tunis-Meetup-Group/)
 
-### NEXT EVENT- 17 DECEMBER 2022 11 am
+### NEXT EVENT- 28 Avril 2023 7PM(GMT+1)
 
-OWASP Mobile TOP10 - Mobile application Pentesting and Security
+A workshop with partnership with SecuriNets Foundation
 
-Our Guest : Ahmed Abdallah, Senior Solutions Architect and Cyber Security Consultant
-OWASP Dubai Chapter Leader
+Topic: Small Coding Mistakes, Big Security Risks
 
-Join us via Meetup https://www.meetup.com/fr-FR/owasp-tunis-meetup-group/events/290318133/
+Our Guest : Mohamed Adib Boukthir is a Securinets alumnus and a previous technical manager/vice president at Securinets ISI. He currently occupies the position of a Cyber Security Tester/Penetration Tester at EY
+
+Join us via Meetup https://www.meetup.com/fr-FR/owasp-tunis-meetup-group/events/293085149/
 
 
-
-### LAST EVENT !
-#### Securing Mobile Apps with the OWASP MASVS Standard. Our Journey to v2.0. [NEW NEW!!] 
-##### With our Honorable Guest ! Carlos Holguera Mobile security research engineer. NowSecure . Project Leader @OWASP Mobile Security Project
-Join us via https://www.meetup.com/fr-FR/owasp-tunis-meetup-group/events/286694349/
 
 <!--{% include chapter_events.html group=page.meetup-group %}-->
 
@@ -48,7 +44,15 @@ The following is the list of organisations/Foundations who have generously help 
 
 <!--![axians](https://www.keejob.com/media/recruiter/recruiter_16995/logo-16995-20190221-123822.jpg)-->
 
-## PAST EVENTS! 
+## Among our PAST EVENTS (See PASTEVENTS)! 
+
+#### Mobile app Pentest and Security
+
+#### OUR Speaker ! Ahmed Abdallah, Senior Solutions Architect and Cyber Security Consultant. OWASP Dubai Chapter Leader
+
+#### Securing Mobile Apps with the OWASP MASVS Standard. Our Journey to v2.0. [NEW NEW!!] 
+##### With our Honorable Guest ! Carlos Holguera Mobile security research engineer. NowSecure . Project Leader @OWASP Mobile Security Project
+Join us via https://www.meetup.com/fr-FR/owasp-tunis-meetup-group/events/286694349/
 
 ### OWASP Tunisia Chapter Local Meeting at NACS (National Agency of Computer Security)20 October 2021!
 [View the video on our Youtube Channel](https://www.youtube.com/watch?v=Ja4Jot0trVM)
