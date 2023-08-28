@@ -7,6 +7,15 @@ tags: pastevents-tag
 ---
 
 ## Past Events
+
+**2023-4-28** Workshop- Small Coding Mistakes, Big Security Risks" 
+
+#### OUR Speaker !
+#### Mohamed Adib Boukthir, Cyber Security Pentester,EY Tunisia
+
+[View the video on our Youtube Channel](https://www.youtube.com/watch?v=t29diy_Jk_c&t=4165s)
+
+<img src="assets/images/adib1.png" width="450" height="250">|<img src="assets/images/adib2.png" width="450" height="250">
 **2022-12-17** Workshop- Mobile app Pentest and Security
 
 #### OUR Speaker !
