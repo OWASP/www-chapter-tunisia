@@ -13,15 +13,9 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 Follow chapter news on  [Facebook](https://www.facebook.com/OWASP.Tunisia.Chapter.Official) ,   [Linkedin](https://www.linkedin.com/groups/8591169/), [Youtube](https://www.youtube.com/channel/UC1M1Ppxbbi3HoYBpqYKjlgA) and [Meetup](https://www.meetup.com/fr-FR/OWASP-Tunis-Meetup-Group/)
 We schedule our meetings on the [Meetup](https://www.meetup.com/OWASP-Tunis-Meetup-Group/)
 
-### NEXT EVENT- 28 Avril 2023 7PM(GMT+1)
+### NEXT EVENT- 1 September 2023 7PM(GMT+1) !! STAY TUNED.. Scheduled Soon via Meetup https://www.meetup.com/fr-FR/owasp-tunis-meetup-group/events/ 
 
-A workshop with partnership with SecuriNets Foundation
 
-Topic: Small Coding Mistakes, Big Security Risks
-
-Our Guest : Mohamed Adib Boukthir is a Securinets alumnus and a previous technical manager/vice president at Securinets ISI. He currently occupies the position of a Cyber Security Tester/Penetration Tester at EY
-
-Join us via Meetup https://www.meetup.com/fr-FR/owasp-tunis-meetup-group/events/293085149/
 
 
 
