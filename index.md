@@ -14,8 +14,16 @@ Follow chapter news on  [Facebook](https://www.facebook.com/OWASP.Tunisia.Chapte
 We schedule our meetings on the [Meetup](https://www.meetup.com/OWASP-Tunis-Meetup-Group/)
 
 ### NEXT EVENT- 1 September 2023 7PM(GMT+1) !! STAY TUNED.. Scheduled Soon via Meetup https://www.meetup.com/fr-FR/owasp-tunis-meetup-group/events/ 
+Workshops on
 
+- "Exploring LLM Vulnerabilities with OWASP TOP 10 for LLMs"
+  by Alyssa Berriche : Lead Cyber Threat Intelligence Analyst. 
+- "Code Red: Deciphering the Depths of Active Directory Security"
+  by Foued saidi: Technical Director @Securinets ISI Club. Top HacktheBox Tunisia, Top60 HacktheBox WorldWide
 
+### Previous EVENT- 28 April 2023 7PM(GMT+1) Workshop on Small Coding Mistakes , Big Security Risks
+Speaker: Mohamed Adib Boukthir
+[View Youtube Video] (https://www.youtube.com/watch?v=t29diy_Jk_c)
 
 
 
