@@ -23,7 +23,7 @@ Workshops on
 
 ### Previous EVENT- 28 April 2023 7PM(GMT+1) Workshop on Small Coding Mistakes , Big Security Risks
 Speaker: Mohamed Adib Boukthir
-[View Youtube Video] (https://www.youtube.com/watch?v=t29diy_Jk_c)
+[View Youtube Video](https://www.youtube.com/watch?v=t29diy_Jk_c)
 
 
 
