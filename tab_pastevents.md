@@ -22,7 +22,7 @@ tags: pastevents-tag
   
 
 
-[View the video on our Youtube Channel]([https://www.youtube.com/watch?v=t29diy_Jk_c&t=4165s](https://www.youtube.com/watch?v=8j_2FO0QSIg)
+[View the video on our Youtube Channel](https://www.youtube.com/watch?v=8j_2FO0QSIg)
 
 <img src="assets/images/foued.png" width="450" height="300">|<img src="assets/images/alyssa.png" width="450" height="300">
 <img src="assets/images/foued2.png" width="450" height="300">
