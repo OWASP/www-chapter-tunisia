@@ -8,6 +8,26 @@ tags: pastevents-tag
 
 ## Past Events
 
+**2023-9-01** Online Workshops co-organized with SecuriNets association
+- "Exploring LLM Vulnerabilities with OWASP TOP 10 for LLMs"( Last version 26 August 2023)
+  by
+#### OUR Speaker !
+####   Alyssa Berriche : Lead Cyber Threat Intelligence Analyst at Cimpress/Vistaprint.Former president of Securinets INSAT club
+
+
+- "Code Red: Deciphering the Depths of Active Directory Security"
+
+#### OUR Speaker !
+####  Foued saidi: Technical Director @Securinets ISI Club. Top HacktheBox Tunisia, Top60 HacktheBox WorldWide
+  
+
+
+[View the video on our Youtube Channel]([https://www.youtube.com/watch?v=t29diy_Jk_c&t=4165s](https://www.youtube.com/watch?v=8j_2FO0QSIg)
+
+<img src="assets/images/foued.png" width="450" height="300">|<img src="assets/images/alyssa.png" width="450" height="300">
+<img src="assets/images/foued2.png" width="450" height="300">
+
+
 **2023-4-28** Workshop- Small Coding Mistakes, Big Security Risks" 
 
 #### OUR Speaker !
