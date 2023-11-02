@@ -4,11 +4,12 @@ title: OWASP Tunisia
 tags: pastevents-tag
 level: 0
 region: Africa
+country: Africa
 meetup-group: OWASP-Tunis-Meetup-Group
 
 ---
 
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Follow chapter news on  [Facebook](https://www.facebook.com/OWASP.Tunisia.Chapter.Official) ,   [Linkedin](https://www.linkedin.com/groups/8591169/), [Youtube](https://www.youtube.com/channel/UC1M1Ppxbbi3HoYBpqYKjlgA) and [Meetup](https://www.meetup.com/fr-FR/OWASP-Tunis-Meetup-Group/)
 We schedule our meetings on the [Meetup](https://www.meetup.com/OWASP-Tunis-Meetup-Group/)
