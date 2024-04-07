@@ -15,10 +15,16 @@ Follow chapter news on  [Facebook](https://www.facebook.com/OWASP.Tunisia.Chapte
 We schedule our meetings on the [Meetup](https://www.meetup.com/OWASP-Tunis-Meetup-Group/)
 
 ### NEW EVENT- 26 April 2024 8 pm (UTC+1) !! 
+#### Topic: AI: The New Attack Surface and Strategies for Securing It
+#### Speaker: Jeff Crume. IBM Distinguished Engineer and Master Inventor with more than 40 years’ experience in the IT industry.
 
 Scheduled via [Meetup](https://www.meetup.com/fr-FR/owasp-tunis-meetup-group/events/300270789/)
 
-### NEW EVENT- 23 March 2024 11h30 (GMT+1) !! Scheduled via Meetup https://www.meetup.com/fr-FR/owasp-tunis-meetup-group/events/ 
+### PAST EVENT- 23 March 2024 11h30 (GMT+1) !! Scheduled via Meetup https://www.meetup.com/fr-FR/owasp-tunis-meetup-group/events/ 
+
+#### Topic: Safeguarding your software supply chain: A deep Dive into SCA With OWASP Dependency Check 
+#### Speaker: Aymen Touzi. Cybersecurity and Devops Expert. Sofrecom Tunisia
+
 https://www.meetup.com/fr-FR/owasp-tunis-meetup-group/events/299907061/
 
 ### PAST EVENT- 1 September 2023 7PM(GMT+1) !! Scheduled via Meetup https://www.meetup.com/fr-FR/owasp-tunis-meetup-group/events/ 
