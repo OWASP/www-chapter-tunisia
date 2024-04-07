@@ -14,6 +14,10 @@ The Open Worldwide Application Security Project (OWASP) is a nonprofit foundatio
 Follow chapter news on  [Facebook](https://www.facebook.com/OWASP.Tunisia.Chapter.Official) ,   [Linkedin](https://www.linkedin.com/groups/8591169/), [Youtube](https://www.youtube.com/channel/UC1M1Ppxbbi3HoYBpqYKjlgA) and [Meetup](https://www.meetup.com/fr-FR/OWASP-Tunis-Meetup-Group/)
 We schedule our meetings on the [Meetup](https://www.meetup.com/OWASP-Tunis-Meetup-Group/)
 
+### NEW EVENT- 26 April 2024 8 pm (UTC+1) !! 
+
+Scheduled via [Meetup](https://www.meetup.com/fr-FR/owasp-tunis-meetup-group/events/300270789/)
+
 ### NEW EVENT- 23 March 2024 11h30 (GMT+1) !! Scheduled via Meetup https://www.meetup.com/fr-FR/owasp-tunis-meetup-group/events/ 
 https://www.meetup.com/fr-FR/owasp-tunis-meetup-group/events/299907061/
 
