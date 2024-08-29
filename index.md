@@ -14,7 +14,12 @@ The Open Worldwide Application Security Project (OWASP) is a nonprofit foundatio
 Follow chapter news on  [Facebook](https://www.facebook.com/OWASP.Tunisia.Chapter.Official) ,   [Linkedin](https://www.linkedin.com/groups/8591169/), [Youtube](https://www.youtube.com/channel/UC1M1Ppxbbi3HoYBpqYKjlgA) and [Meetup](https://www.meetup.com/fr-FR/OWASP-Tunis-Meetup-Group/)
 We schedule our meetings on the [Meetup](https://www.meetup.com/OWASP-Tunis-Meetup-Group/)
 
-### NEW EVENT- 26 April 2024 8 pm (UTC+1) !! 
+### NEXT EVENT - 5 September 2024 at 3pm UTC+1 
+### Topic: “GraphQL Vulnerabilities in the Wild: A Hands-On Workshop with OWASP TOP 10 Insights”
+### Speaker: Antoine Carossio, Co-founder & CTO of Escape
+
+
+### PAST EVENT- 26 April 2024 8 pm (UTC+1) !! 
 #### Topic: AI: The New Attack Surface and Strategies for Securing It
 #### Speaker: Jeff Crume. IBM Distinguished Engineer and Master Inventor with more than 40 years’ experience in the IT industry.
 
