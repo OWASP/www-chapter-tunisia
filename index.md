@@ -14,7 +14,7 @@ The Open Worldwide Application Security Project (OWASP) is a nonprofit foundatio
 Follow chapter news on  [Facebook](https://www.facebook.com/OWASP.Tunisia.Chapter.Official) ,   [Linkedin](https://www.linkedin.com/groups/8591169/), [Youtube](https://www.youtube.com/channel/UC1M1Ppxbbi3HoYBpqYKjlgA) and [Meetup](https://www.meetup.com/fr-FR/OWASP-Tunis-Meetup-Group/)
 We schedule our meetings on the [Meetup](https://www.meetup.com/OWASP-Tunis-Meetup-Group/)
 
-### NEXT EVENT -Co-organizar: OWASP Algiers chapter!- I[OT]Security 25th October 2024 at 7pm UTC+1 on OWASP Tunisia youtube
+### NEXT EVENT -Co-organizer: OWASP Algiers chapter!- I[OT]Security 25th October 2024 at 7pm UTC+1 on OWASP Tunisia youtube
 ### Previous EVENT - 5 September 2024 at 3pm UTC+1 
 ### Topic: “GraphQL Vulnerabilities in the Wild: A Hands-On Workshop with OWASP TOP 10 Insights”
 ### Speaker: Antoine Carossio, Co-founder & CTO of Escape
