@@ -19,28 +19,25 @@ We schedule our meetings on the [Meetup](https://www.meetup.com/OWASP-Tunis-Meet
 
 
 
-### PAST EVENT- 26 April 2024 8 pm (UTC+1) !! 
+### PAST EVENT 
 #### Topic: AI: The New Attack Surface and Strategies for Securing It
 #### Speaker: Jeff Crume. IBM Distinguished Engineer and Master Inventor with more than 40 years’ experience in the IT industry.
 
-Scheduled via [Meetup](https://www.meetup.com/fr-FR/owasp-tunis-meetup-group/events/300270789/)
-
-### PAST EVENT- 23 March 2024 11h30 (GMT+1) !! Scheduled via Meetup https://www.meetup.com/fr-FR/owasp-tunis-meetup-group/events/ 
+Scheduled via [Meetup](https://www.meetup.com/fr-FR/owasp-tunis-meetup-group/events/300270789/) 
 
 #### Topic: Safeguarding your software supply chain: A deep Dive into SCA With OWASP Dependency Check 
 #### Speaker: Aymen Touzi. Cybersecurity and Devops Expert. Sofrecom Tunisia
 
 https://www.meetup.com/fr-FR/owasp-tunis-meetup-group/events/299907061/
 
-### PAST EVENT- 1 September 2023 7PM(GMT+1) !! Scheduled via Meetup https://www.meetup.com/fr-FR/owasp-tunis-meetup-group/events/ 
-Workshops on
+### Workshops on
 
 - "Exploring LLM Vulnerabilities with OWASP TOP 10 for LLMs"
   by Alyssa Berriche : Lead Cyber Threat Intelligence Analyst. 
 - "Code Red: Deciphering the Depths of Active Directory Security"
   by Foued saidi: Technical Director @Securinets ISI Club. Top HacktheBox Tunisia, Top60 HacktheBox WorldWide
 
-### Previous EVENT- 28 April 2023 7PM(GMT+1) Workshop on Small Coding Mistakes , Big Security Risks
+###  Workshop on Small Coding Mistakes , Big Security Risks
 Speaker: Mohamed Adib Boukthir
 [View Youtube Video](https://www.youtube.com/watch?v=t29diy_Jk_c)
 
