@@ -16,10 +16,7 @@ We schedule our meetings on the [Meetup](https://www.meetup.com/OWASP-Tunis-Meet
 
 
 ### NEXT EVENT - JANUARY 2025 - STAY TUNED !! 
-### NEXT EVENT -Co-organizer: OWASP Algiers chapter!- I[OT]Security 25th October 2024 at 7pm UTC+1 on OWASP Tunisia youtube
-### Previous EVENT - 5 September 2024 at 3pm UTC+1 
-### Topic: “GraphQL Vulnerabilities in the Wild: A Hands-On Workshop with OWASP TOP 10 Insights”
-### Speaker: Antoine Carossio, Co-founder & CTO of Escape
+
 
 
 ### PAST EVENT- 26 April 2024 8 pm (UTC+1) !! 
