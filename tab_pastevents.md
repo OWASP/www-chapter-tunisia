@@ -8,6 +8,15 @@ tags: pastevents-tag
 
 ## Past Events
 
+
+**5 September 2024 at 3pm UTC+1** 
+Co-organizer: OWASP Algiers chapter!- I[OT]Security 25th October 2024 at 7pm UTC+1 on OWASP Tunisia youtub
+
+#### Topic: “GraphQL Vulnerabilities in the Wild: A Hands-On Workshop with OWASP TOP 10 Insights”
+
+#### Speaker: Antoine Carossio, Co-founder & CTO of Escape
+
+
 **2023-9-01** Online Workshops co-organized with SecuriNets association
 - "Exploring LLM Vulnerabilities with OWASP TOP 10 for LLMs"( Last version 26 August 2023)
   by
