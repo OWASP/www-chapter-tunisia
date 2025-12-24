@@ -1,0 +1,22 @@
+leaders:
+  - name: Nihel Ben Youssef
+    email: nihel.benyoussef@owasp.org
+    github: nihelowasp
+  - name: Ahmed Amine Ben Souayeh
+    email: ahmed.aminebensouayeh@owasp.org
+location:
+  country: Tunisia
+  country_code: TN
+  latitude: 36.8107673
+  longitude: 10.1408787
+meetup_group: OWASP-Tunis-Meetup-Group
+name: OWASP Tunisia
+repositories:
+  - name: www-chapter-tunisia
+    url: https://github.com/OWASP/www-chapter-tunisia
+    description: OWASP Foundation Web Repository
+tags:
+  - pastevents-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-tunisia
